@@ -1,3 +1,9 @@
+/**
+ * @file   SolverCG.cpp
+ * @author Xuanyu
+ */
+
+
 #include <iostream>
 #include <algorithm>
 #include <cstring>
