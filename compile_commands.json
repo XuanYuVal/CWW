@@ -1,0 +1,21 @@
+[{
+  "file": "/home/xuanyu/desktop/cww/SolverCG.h",
+  "directory": "/home/xuanyu/desktop/cww",
+  "command": "clang++ -c /home/xuanyu/desktop/cww/SolverCG.h -o /home/xuanyu/desktop/cww/SolverCG.h.o  -I. -I.  -g -Wall"
+ }, {
+  "file": "/home/xuanyu/desktop/cww/LidDrivenCavitySolver.cpp",
+  "directory": "/home/xuanyu/desktop/cww",
+  "command": "clang++ -c /home/xuanyu/desktop/cww/LidDrivenCavitySolver.cpp -o /home/xuanyu/desktop/cww/LidDrivenCavitySolver.cpp.o  -I. -I.  -g -Wall"
+ }, {
+  "file": "/home/xuanyu/desktop/cww/SolverCG.cpp",
+  "directory": "/home/xuanyu/desktop/cww",
+  "command": "clang++ -c /home/xuanyu/desktop/cww/SolverCG.cpp -o /home/xuanyu/desktop/cww/SolverCG.cpp.o  -I. -I.  -g -Wall"
+ }, {
+  "file": "/home/xuanyu/desktop/cww/LidDrivenCavity.h",
+  "directory": "/home/xuanyu/desktop/cww",
+  "command": "clang++ -c /home/xuanyu/desktop/cww/LidDrivenCavity.h -o /home/xuanyu/desktop/cww/LidDrivenCavity.h.o  -I. -I.  -g -Wall"
+ }, {
+  "file": "/home/xuanyu/desktop/cww/LidDrivenCavity.cpp",
+  "directory": "/home/xuanyu/desktop/cww",
+  "command": "clang++ -c /home/xuanyu/desktop/cww/LidDrivenCavity.cpp -o /home/xuanyu/desktop/cww/LidDrivenCavity.cpp.o  -I. -I.  -g -Wall"
+ }]
